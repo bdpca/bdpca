@@ -1,0 +1,1 @@
+This table lists the latest supported English (en-US) Microsoft Visual C++ Redistributable packages for Visual Studio 2015, 2017, 2019, and 2022. The latest supported version has the most recently implemented C++ features, security, reliability, and performance improvements. It also includes the latest C++

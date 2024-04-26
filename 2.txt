@@ -1,0 +1,1 @@
+Unlike older versions of Visual Studio, which have infrequent redist updates, the version number isn't listed in the following table for Visual Studio 2015-2022 because the redist is updated frequently. To find the version number of the latest redist, download the redist you're interested in using one of the following links.
